@@ -58,7 +58,7 @@ Files are tab \t separated.
 			"topics": {
 				"statusGet": "stat/sonoff/POWER",
 				"statusSet": "cmnd/sonoff/power",
-				"energyGet": "tele/sonoff/ENERGY",
+				"energyGet": "tele/sonoff/SENSOR",
 				"stateGet": "tele/sonoff/STATE"
 			},
 			"onValue": "ON",
