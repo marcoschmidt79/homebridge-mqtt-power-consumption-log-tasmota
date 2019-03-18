@@ -96,7 +96,7 @@ Files are tab \t separated.
 
 **"statusSet": "cmnd/sonoff/power"** - command topic to set switch.
 
-**"energyGet": "tele/sonoff/ENERGY"** - topic for energy telemetry information.
+**"energyGet": "tele/sonoff/SENSOR"** - topic for energy telemetry information.
 
 **"stateGet": "tele/sonoff/STATE"** - topic for cyclic telemetry information.
 
