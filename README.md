@@ -1,6 +1,6 @@
 # homebridge-mqtt-power-consumption-log-tasmota für Tasmota 6.x
 
-Plugin to HomeBridge optimized for work with Itead Sonoff POW hardware with firmware [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) via MQTT with log data to file. Partially emulate Elgato Eve Energy. Measure used power and write logged data to csv files. It acts as a power switch and meter energy consumed.
+Plugin to HomeBridge optimized for work with Itead Sonoff POW (R2) hardware with firmware [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) via MQTT with log data to file. Partially emulate Elgato Eve Energy. Measure used power and write logged data to csv files. It acts as a power switch and meter energy consumed.
 
 Like this? Please buy me a beer (or coffee) ;-) <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=CK56Q7SFHEHSW"><img src="http://macwyznawca.pl/donate-paypal2.png" alt="Donate a coder" data-canonical-src="http://macwyznawca.pl/donate-paypal.svg" style="max-width:100%;"></a>
 
